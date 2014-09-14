@@ -1,0 +1,1 @@
+Basic example sketch for getting the ESP8266 Wi07c Wifi Module working on Arduino
